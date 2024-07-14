@@ -1,4 +1,3 @@
-nginx
-guacamole/guacd:latest
-postgres:15.2-alpine:latest
-guacamole/guacamole:latest
+guacamole/guacd
+postgres:15.2-alpine
+guacamole/guacamole
