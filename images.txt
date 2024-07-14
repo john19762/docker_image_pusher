@@ -1,1 +1,1 @@
-guacamole/guacd
+postgres
